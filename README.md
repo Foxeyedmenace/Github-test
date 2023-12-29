@@ -1,2 +1,2 @@
-# Github-test
-I am learning how to use  Github properly....Web project1
+# GitHub-test
+I am learning how to use  GitHub properly...Web project1
