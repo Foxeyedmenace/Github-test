@@ -1,6 +1,6 @@
 # GitHub-test
 I am learning how to use  GitHub properly...Web project01
 
-1 Git is a version control systems it's free and open soucre.
+1 Git is a version control system it's free and open source.
 
-2 Version control is a system use for "self respecting deveploers" to track(log) thier code(programs/projects) after editing and updateing the code.
+2 Version control is a system used for "self-respecting developers" to track(log) their code(programs/projects) after editing and updating the code.
