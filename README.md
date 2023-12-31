@@ -23,5 +23,6 @@ I am learning how to use  GitHub properly...Web project01
                  push: Download changes from remote repo to your local machine, the opposite of push
  }*All commands are typed in lowercase*
 
- 4
- 
+ 4 install git and a code editor(VS code)
+
+ 5 create a test folder to use "Git"
