@@ -27,6 +27,6 @@ I am learning how to use  GitHub properly...Web project01
 
  5 create a test folder to use "Git"
 
- 6 pull repos from GitHub and also learned how to make a SSH key
+
 
  
